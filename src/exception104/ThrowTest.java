@@ -5,7 +5,7 @@
 package exception104;
 
 /**
- *
+// *
  * @author cis39
  */
 public class ThrowTest {
